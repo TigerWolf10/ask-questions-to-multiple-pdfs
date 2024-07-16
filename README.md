@@ -10,7 +10,7 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 ------------
 
 [MultiPDF Chat App PDF_Diagram](docs/PDF-LangChain.pdf)
-[MultiPDF Chat App JPG_Diagram](docs/PDF-LangChain.jpg)
+![MultiPDF Chat App JPG_Diagram](./docs/PDF-LangChain.PDF)
 
 The application follows these steps to provide responses to your questions:
 
